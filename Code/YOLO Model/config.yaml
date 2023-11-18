@@ -1,0 +1,6 @@
+path: /home/ankit/Downloads/The-Perception-Saga/YOLO Model/data
+train: images/train
+val: images/val
+
+nc: 1
+names: ['window']
